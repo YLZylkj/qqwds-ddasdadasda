@@ -1,0 +1,15 @@
+{
+    "title": "Kubernetes 2node multi-step verification",
+    sh.md"
+}
+},
+"backend": {
+"imageid": "ubuntu",
+"expose": 8080,
+"layout": "",
+"skins": "",
+"tools": "idea | terminal | notebook",
+"cpu": 1,
+"memory": 1024
+}
+}
